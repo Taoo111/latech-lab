@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1699099355 "c:/Users/dawid/OneDrive - The Opole University of Technology/STUDIA/Czwarty Rok/Narzedzia - Latex/LAB4/lab.tex" "lab.pdf" "lab" 1699099356 2
+["pdflatex"] 1699099914 "c:/Users/dawid/OneDrive - The Opole University of Technology/STUDIA/Czwarty Rok/Narzedzia - Latex/LAB4/lab.tex" "lab.pdf" "lab" 1699099915 2
   "C:/Users/dawid/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1698219404 86732 443e4af1e7a7cff6dff125270fe749ad ""
   "C:/Users/dawid/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1698219412 25420 406541b762f1d6b2a5f68e7491ee3691 ""
   "C:/Users/dawid/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1698219409 31952 bb7a3b0e9697f6f1ca6996b0d9793451 ""
@@ -74,7 +74,7 @@
   "C:/Users/dawid/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1625497667 48833 3b7b4cfab1a3d15596bfd3772a77ab65 ""
   "C:/Users/dawid/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1686255640 12691 ddae4e0162a664f166015d992388b742 ""
   "C:/Users/dawid/AppData/Local/Programs/MiKTeX/tex/latex/tools/indentfirst.sty" 1686255640 1618 7b2cc9bc42f1ad36c989fb47fd65c549 ""
-  "c:/Users/dawid/OneDrive - The Opole University of Technology/STUDIA/Czwarty Rok/Narzedzia - Latex/LAB4/lab.tex" 1699099355 4422 5511a88a495daf50a4c1484ce0d5bb06 ""
+  "c:/Users/dawid/OneDrive - The Opole University of Technology/STUDIA/Czwarty Rok/Narzedzia - Latex/LAB4/lab.tex" 1699099862 4718 0b2295006c09c94a1484e3c90de25735 ""
   "image/ModLogoPO.jpg" 1698219537 11071 45ba84d3c2c23a886c9f45901b681ced ""
   "image/ModLogoWE.jpg" 1698219537 6706 65f9f53e22e27048c8de005fa9e62192 ""
   "image/add.png" 1699099307 15309 5549a62e83b89f133bf78b876ec4b261 ""
@@ -85,9 +85,11 @@
   "image/diff.png" 1699099307 41386 32c418b23c32ca9bd0ba9bf09025aaf2 ""
   "image/init.png" 1698221268 16136 e2a131b20f3a1fa2762c8a21f256af53 ""
   "image/merge.png" 1699099335 14580 047dbe034e287ee957046b68bc963248 ""
+  "image/restore.png" 1699099698 9133 61c38f1f47f23f19153a683c3e1eb9e7 ""
+  "image/rm.png" 1699099838 10262 c5758c823bf9ea31f30074777eedfe0c ""
   "image/status.png" 1698221454 22983 f63981aff61be8e32231eab9115e1e41 ""
-  "lab.aux" 1699099356 1175 9cbc663fd04b3b198eab7785df63ff97 "pdflatex"
-  "lab.tex" 1699099355 4422 5511a88a495daf50a4c1484ce0d5bb06 ""
+  "lab.aux" 1699099915 1380 71aa8c1d03c1fa150cc2a6d1fa5dbcb9 "pdflatex"
+  "lab.tex" 1699099862 4718 0b2295006c09c94a1484e3c90de25735 ""
   (generated)
   "lab.aux"
   "lab.log"
